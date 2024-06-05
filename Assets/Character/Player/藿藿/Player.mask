@@ -1,0 +1,1072 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Hips
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee/Left ankle
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee/Left ankle/Left toe
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left leg/Left knee/Left ankle/Left toe/Left toe_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Qz_0_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_0/Qz_1_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_0/Qz_1_0/Qz_2_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_0/Qz_1_0/Qz_2_0/Qz_3_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_0/Qz_1_0/Qz_2_0/Qz_3_0/Qz_4_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_0/Qz_1_0/Qz_2_0/Qz_3_0/Qz_4_0/Qz_4_0_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_1/Qz_1_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_1/Qz_1_1/Qz_2_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_1/Qz_1_1/Qz_2_1/Qz_3_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_1/Qz_1_1/Qz_2_1/Qz_3_1/Qz_4_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_1/Qz_1_1/Qz_2_1/Qz_3_1/Qz_4_1/Qz_4_1_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_2/Qz_1_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_2/Qz_1_2/Qz_2_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_2/Qz_1_2/Qz_2_2/Qz_3_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_2/Qz_1_2/Qz_2_2/Qz_3_2/Qz_4_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_2/Qz_1_2/Qz_2_2/Qz_3_2/Qz_4_2/Qz_4_2_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_3/Qz_1_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_3/Qz_1_3/Qz_2_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_3/Qz_1_3/Qz_2_3/Qz_3_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_3/Qz_1_3/Qz_2_3/Qz_3_3/Qz_4_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_3/Qz_1_3/Qz_2_3/Qz_3_3/Qz_4_3/Qz_4_3_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_4/Qz_1_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_4/Qz_1_4/Qz_2_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_4/Qz_1_4/Qz_2_4/Qz_3_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_4/Qz_1_4/Qz_2_4/Qz_3_4/Qz_4_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_4/Qz_1_4/Qz_2_4/Qz_3_4/Qz_4_4/Qz_4_4_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_5/Qz_1_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_5/Qz_1_5/Qz_2_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_5/Qz_1_5/Qz_2_5/Qz_3_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_5/Qz_1_5/Qz_2_5/Qz_3_5/Qz_4_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_5/Qz_1_5/Qz_2_5/Qz_3_5/Qz_4_5/Qz_4_5_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_6/Qz_1_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_6/Qz_1_6/Qz_2_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_6/Qz_1_6/Qz_2_6/Qz_3_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_6/Qz_1_6/Qz_2_6/Qz_3_6/Qz_4_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_6/Qz_1_6/Qz_2_6/Qz_3_6/Qz_4_6/Qz_4_6_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_7/Qz_1_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_7/Qz_1_7/Qz_2_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_7/Qz_1_7/Qz_2_7/Qz_3_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_7/Qz_1_7/Qz_2_7/Qz_3_7/Qz_4_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_7/Qz_1_7/Qz_2_7/Qz_3_7/Qz_4_7/Qz_4_7_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_8/Qz_1_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_8/Qz_1_8/Qz_2_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_8/Qz_1_8/Qz_2_8/Qz_3_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_8/Qz_1_8/Qz_2_8/Qz_3_8/Qz_4_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_8/Qz_1_8/Qz_2_8/Qz_3_8/Qz_4_8/Qz_4_8_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_9/Qz_1_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_9/Qz_1_9/Qz_2_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_9/Qz_1_9/Qz_2_9/Qz_3_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_9/Qz_1_9/Qz_2_9/Qz_3_9/Qz_4_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_9/Qz_1_9/Qz_2_9/Qz_3_9/Qz_4_9/Qz_4_9_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_10/Qz_1_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_10/Qz_1_10/Qz_2_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_10/Qz_1_10/Qz_2_10/Qz_3_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_10/Qz_1_10/Qz_2_10/Qz_3_10/Qz_4_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_10/Qz_1_10/Qz_2_10/Qz_3_10/Qz_4_10/Qz_4_10_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_11/Qz_1_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_11/Qz_1_11/Qz_2_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_11/Qz_1_11/Qz_2_11/Qz_3_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_11/Qz_1_11/Qz_2_11/Qz_3_11/Qz_4_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_11/Qz_1_11/Qz_2_11/Qz_3_11/Qz_4_11/Qz_4_11_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_12/Qz_1_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_12/Qz_1_12/Qz_2_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_12/Qz_1_12/Qz_2_12/Qz_3_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_12/Qz_1_12/Qz_2_12/Qz_3_12/Qz_4_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_12/Qz_1_12/Qz_2_12/Qz_3_12/Qz_4_12/Qz_4_12_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_13/Qz_1_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_13/Qz_1_13/Qz_2_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_13/Qz_1_13/Qz_2_13/Qz_3_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_13/Qz_1_13/Qz_2_13/Qz_3_13/Qz_3_13_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_14/Qz_1_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_14/Qz_1_14/Qz_2_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_14/Qz_1_14/Qz_2_14/Qz_3_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_14/Qz_1_14/Qz_2_14/Qz_3_14/Qz_3_14_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_15/Qz_1_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_15/Qz_1_15/Qz_2_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_15/Qz_1_15/Qz_2_15/Qz_3_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Qz_0_15/Qz_1_15/Qz_2_15/Qz_3_15/Qz_3_15_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Right leg
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee/Right ankle
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee/Right ankle/Right toe
+    m_Weight: 1
+  - m_Path: Armature/Hips/Right leg/Right knee/Right ankle/Right toe/Right toe_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT/Armor_A_04_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT/Armor_A_04_JNT/Armor_A_05_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT/Armor_A_04_JNT/Armor_A_05_JNT/Armor_A_06_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT/Armor_A_04_JNT/Armor_A_05_JNT/Armor_A_06_JNT/Armor_A_07_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT/Armor_A_04_JNT/Armor_A_05_JNT/Armor_A_06_JNT/Armor_A_07_JNT/Armor_A_08_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Armor_A_01_JNT/Armor_A_02_JNT/Armor_A_03_JNT/Armor_A_04_JNT/Armor_A_05_JNT/Armor_A_06_JNT/Armor_A_07_JNT/Armor_A_08_JNT/Armor_A_08_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/zHandTwist_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/zHandTwist_L/zHandTwist_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/zArmTwist_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Left shoulder/Left arm/zArmTwist_L/zArmTwist_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/EardropR_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/EardropR_00_JNT/EardropR_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/EardropR_00_JNT/EardropR_01_JNT/EardropR_01_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Eye_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Eye_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_00a_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_00a_00_JNT/HairBL_00a_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT/HairBL_02a_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT/HairBL_02a_00_JNT/HairBL_02a_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT/HairBL_02b_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT/HairBL_02b_00_JNT/HairBL_02b_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT/HairBL_03_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBL_01_JNT/HairBL_02_JNT/HairBL_03_JNT/HairBL_03_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBLa_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBLa_00_JNT/HairBLa_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBL_00_JNT/HairBLa_00_JNT/HairBLa_01_JNT/HairBLa_01_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT/HairBL_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT/HairBL_A_00_JNT/HairBL_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT/HairBL_A_00_JNT/HairBL_A_01_JNT/HairBL_A_01_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT/HairBR_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT/HairBR_A_00_JNT/HairBR_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBM_00_JNT/HairBM_01_JNT/HairBR_A_00_JNT/HairBR_A_01_JNT/HairBR_A_01_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_00a_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_00a_00_JNT/HairBR_00a_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT/HairBR_02a_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT/HairBR_02a_00_JNT/HairBR_02a_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT/HairBR_02b_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT/HairBR_02b_00_JNT/HairBR_02b_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT/HairBR_03_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairBR_00_JNT/HairBR_01_JNT/HairBR_02_JNT/HairBR_03_JNT/HairBR_03_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFL_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFL_00_JNT/HairFL_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFL_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFL_A_00_JNT/HairFL_A_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFR_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFR_00_JNT/HairFR_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFR_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairFR_A_00_JNT/HairFR_A_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_A_00_JNT/HairL_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_A_00_JNT/HairL_A_01_JNT/HairL_A_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_A_00_JNT/HairL_A_01_JNT/HairL_A_02_JNT/HairL_A_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_B_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_B_00_JNT/HairL_B_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_B_00_JNT/HairL_B_01_JNT/HairL_B_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_B_00_JNT/HairL_B_01_JNT/HairL_B_02_JNT/HairL_B_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_B_00_JNT/HairL_D_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_B_00_JNT/HairL_D_00_JNT/HairL_D_00_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_C_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_C_00_JNT/HairL_C_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_C_00_JNT/HairL_C_01_JNT/HairL_C_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairL_C_00_JNT/HairL_C_01_JNT/HairL_C_02_JNT/HairL_C_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_A_00_JNT/HairR_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_A_00_JNT/HairR_A_01_JNT/HairR_A_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_A_00_JNT/HairR_A_01_JNT/HairR_A_02_JNT/HairR_A_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_B_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_B_00_JNT/HairR_B_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_B_00_JNT/HairR_B_01_JNT/HairR_B_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_B_00_JNT/HairR_B_01_JNT/HairR_B_02_JNT/HairR_B_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_B_00_JNT/HairR_B_03_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_B_00_JNT/HairR_B_03_JNT/HairR_B_03_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_C_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_C_00_JNT/HairR_C_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_C_00_JNT/HairR_C_01_JNT/HairR_C_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairR_C_00_JNT/HairR_C_01_JNT/HairR_C_02_JNT/HairR_C_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairUM_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairUM_00_JNT/HairUM_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairUM_00_JNT/HairUM_01_JNT/HairUM_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HairUM_00_JNT/HairUM_01_JNT/HairUM_02_JNT/HairUM_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatL_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatL_A_00_JNT/HatL_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatL_A_00_JNT/HatL_A_01_JNT/HatL_A_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatL_A_00_JNT/HatL_A_01_JNT/HatL_A_02_JNT/HatL_A_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatR_A_00_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatR_A_00_JNT/HatR_A_01_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatR_A_00_JNT/HatR_A_01_JNT/HatR_A_02_JNT
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/HatR_A_00_JNT/HatR_A_01_JNT/HatR_A_02_JNT/HatR_A_02_JNT_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/IndexFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/IndexFinger1_R/IndexFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/LittleFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/LittleFinger1_R/LittleFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/MiddleFinger1_R/MiddleFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/RingFinger1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/RingFinger1_R/RingFinger2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/Thumb0_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/Thumb0_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/Thumb0_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right
+      wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/zHandTwist_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/zHandTwist_R/zHandTwist_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/zArmTwist_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Right shoulder/Right arm/zArmTwist_R/zArmTwist_R_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Qds
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Qds/Qds1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Qds/Qds1/Qds1_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Ysd6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Ysd6/Ysd7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Ysd6/Ysd7/Ysd8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Ysd6/Ysd7/Ysd8/Ysd9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Ysd6/Ysd7/Ysd8/Ysd9/Ysd10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Ysd1/Ysd2/Ysd3/Ysd4/Ysd5/Ysd6/Ysd7/Ysd8/Ysd9/Ysd10/Ysd10_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_01a_00_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_01a_00_JNT/Tail_01a_00_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_05_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_05_JNT/Tail_06_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_05_JNT/Tail_06_JNT/Tail_07_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_05_JNT/Tail_06_JNT/Tail_07_JNT/Tail_07_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_05_JNT/Tail_IK_05_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_05_JNT/Tail_IK_05_JNT/Tail_IK_05_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_IK_04_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_IK_04_JNT/Tail_04a_00_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_IK_04_JNT/Tail_04a_00_JNT/Tail_04a_01_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_04_JNT/Tail_IK_04_JNT/Tail_04a_00_JNT/Tail_04a_01_JNT/Tail_04a_01_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03a_00_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03a_00_JNT/Tail_03a_01_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03a_00_JNT/Tail_03a_01_JNT/Tail_03a_01_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03b_00_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03b_00_JNT/Tail_03b_01_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03b_00_JNT/Tail_03b_01_JNT/Tail_03b_01_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03c_00_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_03_JNT/Tail_IK_03_JNT/Tail_03c_00_JNT/Tail_03c_00_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_IK_02_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_IK_02_JNT/Tail_02a_00_JNT
+    m_Weight: 0
+  - m_Path: Armature/Hips/Tail_01_JNT/Tail_02_JNT/Tail_IK_02_JNT/Tail_02a_00_JNT/Tail_02a_00_JNT_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0/Wt_6_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0/Wt_6_0/Wt_7_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0/Wt_6_0/Wt_7_0/Wt_8_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0/Wt_6_0/Wt_7_0/Wt_8_0/Wt_9_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0/Wt_6_0/Wt_7_0/Wt_8_0/Wt_9_0/Wt_10_0
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_0/Wt_1_0/Wt_2_0/Wt_3_0/Wt_4_0/Wt_5_0/Wt_6_0/Wt_7_0/Wt_8_0/Wt_9_0/Wt_10_0/Wt_10_0_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1/Wt_5_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1/Wt_5_1/Wt_6_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1/Wt_5_1/Wt_6_1/Wt_8_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1/Wt_5_1/Wt_6_1/Wt_8_1/Wt_9_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1/Wt_5_1/Wt_6_1/Wt_8_1/Wt_9_1/Wt_10_1
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_1/Wt_1_1/Wt_2_1/Wt_3_1/Wt_4_1/Wt_5_1/Wt_6_1/Wt_8_1/Wt_9_1/Wt_10_1/Wt_10_1_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2/Wt_5_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2/Wt_5_2/Wt_6_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2/Wt_5_2/Wt_6_2/Wt_7_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2/Wt_5_2/Wt_6_2/Wt_7_2/Wt_8_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2/Wt_5_2/Wt_6_2/Wt_7_2/Wt_8_2/Wt_9_2
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_2/Wt_1_2/Wt_2_2/Wt_3_2/Wt_4_2/Wt_5_2/Wt_6_2/Wt_7_2/Wt_8_2/Wt_9_2/Wt_9_2_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3/Wt_5_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3/Wt_5_3/Wt_6_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3/Wt_5_3/Wt_6_3/Wt_7_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3/Wt_5_3/Wt_6_3/Wt_7_3/Wt_8_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3/Wt_5_3/Wt_6_3/Wt_7_3/Wt_8_3/Wt_9_3
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_3/Wt_1_3/Wt_2_3/Wt_3_3/Wt_4_3/Wt_5_3/Wt_6_3/Wt_7_3/Wt_8_3/Wt_9_3/Wt_9_3_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4/Wt_5_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4/Wt_5_4/Wt_7_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4/Wt_5_4/Wt_7_4/Wt_8_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4/Wt_5_4/Wt_7_4/Wt_8_4/Wt_9_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4/Wt_5_4/Wt_7_4/Wt_8_4/Wt_9_4/Wt_10_4
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_4/Wt_1_4/Wt_2_4/Wt_3_4/Wt_4_4/Wt_5_4/Wt_7_4/Wt_8_4/Wt_9_4/Wt_10_4/Wt_10_4_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5/Wt_5_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5/Wt_5_5/Wt_7_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5/Wt_5_5/Wt_7_5/Wt_8_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5/Wt_5_5/Wt_7_5/Wt_8_5/Wt_9_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5/Wt_5_5/Wt_7_5/Wt_8_5/Wt_9_5/Wt_10_5
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_5/Wt_1_5/Wt_2_5/Wt_3_5/Wt_4_5/Wt_5_5/Wt_7_5/Wt_8_5/Wt_9_5/Wt_10_5/Wt_10_5_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6/Wt_6_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6/Wt_6_6/Wt_7_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6/Wt_6_6/Wt_7_6/Wt_8_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6/Wt_6_6/Wt_7_6/Wt_8_6/Wt_9_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6/Wt_6_6/Wt_7_6/Wt_8_6/Wt_9_6/Wt_10_6
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_6/Wt_1_6/Wt_2_6/Wt_3_6/Wt_4_6/Wt_5_6/Wt_6_6/Wt_7_6/Wt_8_6/Wt_9_6/Wt_10_6/Wt_10_6_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7/Wt_5_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7/Wt_5_7/Wt_6_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7/Wt_5_7/Wt_6_7/Wt_7_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7/Wt_5_7/Wt_6_7/Wt_7_7/Wt_8_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7/Wt_5_7/Wt_6_7/Wt_7_7/Wt_8_7/Wt_9_7
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_7/Wt_1_7/Wt_2_7/Wt_3_7/Wt_4_7/Wt_5_7/Wt_6_7/Wt_7_7/Wt_8_7/Wt_9_7/Wt_9_7_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8/Wt_5_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8/Wt_5_8/Wt_6_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8/Wt_5_8/Wt_6_8/Wt_7_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8/Wt_5_8/Wt_6_8/Wt_7_8/Wt_8_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8/Wt_5_8/Wt_6_8/Wt_7_8/Wt_8_8/Wt_9_8
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_8/Wt_1_8/Wt_2_8/Wt_3_8/Wt_4_8/Wt_5_8/Wt_6_8/Wt_7_8/Wt_8_8/Wt_9_8/Wt_9_8_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9/Wt_4_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9/Wt_4_9/Wt_6_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9/Wt_4_9/Wt_6_9/Wt_7_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9/Wt_4_9/Wt_6_9/Wt_7_9/Wt_8_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9/Wt_4_9/Wt_6_9/Wt_7_9/Wt_8_9/Wt_9_9
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_9/Wt_1_9/Wt_2_9/Wt_3_9/Wt_4_9/Wt_6_9/Wt_7_9/Wt_8_9/Wt_9_9/Wt_9_9_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10/Wt_5_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10/Wt_5_10/Wt_6_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10/Wt_5_10/Wt_6_10/Wt_7_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10/Wt_5_10/Wt_6_10/Wt_7_10/Wt_8_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10/Wt_5_10/Wt_6_10/Wt_7_10/Wt_8_10/Wt_9_10
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_10/Wt_1_10/Wt_2_10/Wt_3_10/Wt_4_10/Wt_5_10/Wt_6_10/Wt_7_10/Wt_8_10/Wt_9_10/Wt_9_10_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11/Wt_5_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11/Wt_5_11/Wt_6_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11/Wt_5_11/Wt_6_11/Wt_7_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11/Wt_5_11/Wt_6_11/Wt_7_11/Wt_8_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11/Wt_5_11/Wt_6_11/Wt_7_11/Wt_8_11/Wt_9_11
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_11/Wt_1_11/Wt_2_11/Wt_3_11/Wt_4_11/Wt_5_11/Wt_6_11/Wt_7_11/Wt_8_11/Wt_9_11/Wt_9_11_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12/Wt_6_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12/Wt_6_12/Wt_7_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12/Wt_6_12/Wt_7_12/Wt_8_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12/Wt_6_12/Wt_7_12/Wt_8_12/Wt_9_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12/Wt_6_12/Wt_7_12/Wt_8_12/Wt_9_12/Wt_10_12
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_12/Wt_1_12/Wt_2_12/Wt_3_12/Wt_4_12/Wt_5_12/Wt_6_12/Wt_7_12/Wt_8_12/Wt_9_12/Wt_10_12/Wt_10_12_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13/Wt_5_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13/Wt_5_13/Wt_7_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13/Wt_5_13/Wt_7_13/Wt_8_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13/Wt_5_13/Wt_7_13/Wt_8_13/Wt_9_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13/Wt_5_13/Wt_7_13/Wt_8_13/Wt_9_13/Wt_10_13
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_13/Wt_1_13/Wt_2_13/Wt_3_13/Wt_4_13/Wt_5_13/Wt_7_13/Wt_8_13/Wt_9_13/Wt_10_13/Wt_10_13_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14/Wt_5_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14/Wt_5_14/Wt_7_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14/Wt_5_14/Wt_7_14/Wt_8_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14/Wt_5_14/Wt_7_14/Wt_8_14/Wt_9_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14/Wt_5_14/Wt_7_14/Wt_8_14/Wt_9_14/Wt_10_14
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_14/Wt_1_14/Wt_2_14/Wt_3_14/Wt_4_14/Wt_5_14/Wt_7_14/Wt_8_14/Wt_9_14/Wt_10_14/Wt_10_14_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15/Wt_5_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15/Wt_5_15/Wt_6_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15/Wt_5_15/Wt_6_15/Wt_7_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15/Wt_5_15/Wt_6_15/Wt_7_15/Wt_8_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15/Wt_5_15/Wt_6_15/Wt_7_15/Wt_8_15/Wt_9_15
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_15/Wt_1_15/Wt_2_15/Wt_3_15/Wt_4_15/Wt_5_15/Wt_6_15/Wt_7_15/Wt_8_15/Wt_9_15/Wt_9_15_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16/Wt_5_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16/Wt_5_16/Wt_6_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16/Wt_5_16/Wt_6_16/Wt_7_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16/Wt_5_16/Wt_6_16/Wt_7_16/Wt_8_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16/Wt_5_16/Wt_6_16/Wt_7_16/Wt_8_16/Wt_9_16
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_16/Wt_1_16/Wt_2_16/Wt_3_16/Wt_4_16/Wt_5_16/Wt_6_16/Wt_7_16/Wt_8_16/Wt_9_16/Wt_9_16_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17/Wt_5_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17/Wt_5_17/Wt_6_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17/Wt_5_17/Wt_6_17/Wt_8_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17/Wt_5_17/Wt_6_17/Wt_8_17/Wt_9_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17/Wt_5_17/Wt_6_17/Wt_8_17/Wt_9_17/Wt_10_17
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_17/Wt_1_17/Wt_2_17/Wt_3_17/Wt_4_17/Wt_5_17/Wt_6_17/Wt_8_17/Wt_9_17/Wt_10_17/Wt_10_17_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18/Wt_6_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18/Wt_6_18/Wt_7_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18/Wt_6_18/Wt_7_18/Wt_8_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18/Wt_6_18/Wt_7_18/Wt_8_18/Wt_9_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18/Wt_6_18/Wt_7_18/Wt_8_18/Wt_9_18/Wt_10_18
+    m_Weight: 0
+  - m_Path: Armature/Hips/Wt_0_18/Wt_1_18/Wt_2_18/Wt_3_18/Wt_4_18/Wt_5_18/Wt_6_18/Wt_7_18/Wt_8_18/Wt_9_18/Wt_10_18/Wt_10_18_end
+    m_Weight: 0
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Camera
+    m_Weight: 0
+  - m_Path: Light
+    m_Weight: 0
